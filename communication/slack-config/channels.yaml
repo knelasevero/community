@@ -89,6 +89,7 @@ channels:
   - name: de-events
   - name: de-users
   - name: deppy-dev
+  - name: descheduler #this channel is for the descheduler project which is a subproject of sig-scheduling
   - name: devfile
   - name: devspace
   - name: devstats
